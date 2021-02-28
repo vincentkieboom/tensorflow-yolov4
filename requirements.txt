@@ -1,0 +1,6 @@
+# pip install -r requirements.txt
+opencv-python-headless
+tensorflow
+yolov4
+numpy
+pandas
